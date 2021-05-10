@@ -1,0 +1,15 @@
+Course FAQs
+Installing Python
+Installing Python should be very straightforward. But on some computers (depending on the operating system and pre-existing programs) this could be a little more difficult.
+
+Go to Python.org and download the latest version of Python. Then install the program like you would normally install any program.
+
+Open your command line program (most likely one of these: Command Prompt, Terminal, Bash, etc)
+
+Type python -V to see your version of Python
+
+Note: if you are on Windows and you can a permission error, try using py -V and instead of executing a file with python yourfile.py, use py yourfile.py
+
+Common Questions:
+Do I need Jupyter, Notebook and Anaconda for this course?
+No, you do not. It just makes writing Python a little easier and a little nicer. To execute any of the .ipynb files you'll need Jupyter Notebook installed, but those are optional regardless as you can read the file output on GitHub.

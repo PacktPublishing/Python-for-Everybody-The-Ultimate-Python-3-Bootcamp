@@ -1,0 +1,21 @@
+For Windows Users (Please Read)
+Hey there! 
+
+If you're reading this you should be using Windows. If you're using MacOS or Linux you can skip this document.
+
+Windows does things differently from time to time. That means some commands are different in Windows than on MacOS/Linux. I do my best to demonstrate this throughout the course, but there are some cases that are hard to demonstrate.
+
+Below is a quick cheat sheet you can use to convert the commands I type to Windows-based commands (I also mention these commands in each of the videos, in case you forget).
+
+Windows Commands
+python vs. py
+
+Running Python isn't always used with python yourfile.py or python3 yourfile.py on Windows. If you've installed Python but those commands aren't working for you (more about this particular command in the Running Python Code lesson) then try py yourfile.py
+
+ls -la vs. dir
+
+In the command line you'll see me write ls -la a lot. That simply lists my folders and files in the command line. This is a unix command, but on Windows you'll type dir — I mention this about 20 times throughout the course as well so if forget, that's OK. It's also covered thoroughly in the lesson: Command Line Crash Course
+
+Command Line Programs
+
+In several lessons I mention PowerShell, Command Prompt, Bash, Terminal, etc. Since you're on Windows you'll likely use Command Prompt. You can search for "Command Prompt", right click and open as admin. This will open the program with the proper permissions you need to run Python files.
